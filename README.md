@@ -1,0 +1,2 @@
+Swagger/OpenAPI: Utilize bibliotecas como drf-yasg ou django-rest-swagger para gerar uma documentação automática da API.
+Docstrings: Adicione docstrings a todas as funções, classes e métodos, explicando o propósito e o funcionamento.
